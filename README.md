@@ -42,5 +42,6 @@ func main() {
 	}
 
 	fmt.Println(result)
+	// map[apple:7 banana:14 grape:14 orange:65]
 }
 ```
