@@ -1,10 +1,3 @@
-# weighted-roundrobin
-
-Implementation of weighted round robin algorithm.
-
-## SYNOPSIS
-
-```go
 package main
 
 import (
@@ -43,4 +36,3 @@ func main() {
 
 	fmt.Println(result)
 }
-```
